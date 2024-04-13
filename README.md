@@ -1,1 +1,21 @@
-# bostonhousepric_docker
+## bostonhousepric_docker
+
+### Boston House Pricing Prediction
+
+
+### Software And Tools Requirements
+
+1. [Github Account](https://github.com)
+
+2. [VS Code IDE](https://code.visualstudio.com/)
+
+3. [HerokuAccount](https://heroku.com)
+
+4. [GitCLI](https://git-scm/book/en/vr/Getting-Started-The-Command-Line)
+
+
+Create a New Enviroment
+
+```
+conda create -p venv python==3.7 -y
+``` 
